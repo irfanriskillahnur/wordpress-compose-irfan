@@ -124,9 +124,9 @@ Masalah yang saya temui: perintah `docker --version` gagal di komputer Ubuntu se
 
 Penyebab: Docker belum terinstal di komputer tersebut.
 
-Langkah perbaikan: (isi dengan langkah yang benar-benar Anda lakukan, misalnya mengerjakan di laptop sendiri dan memakai Docker Desktop).
+Langkah perbaikan: Menginstall Docker Dekstop terlebih dahulu.
 
-Hasil: (isi hasil yang sebenarnya, misalnya perintah `docker --version` berhasil dan project dapat berjalan).
+Hasil: Menjalankan perintah `docker --version` berhasil
 
 ### 8. Jelaskan satu modifikasi yang dilakukan sendiri!
 
