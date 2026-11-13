@@ -138,25 +138,25 @@ Saya juga memindahkan nama database, user, dan password ke file `.env` agar tida
 
 ### A. Status Container
 
-![Docker PS](bukti-running/docker-ps.png)
+![Docker PS](bukti-running/Docker%20PS.png)
 
 Menampilkan status container WordPress, MariaDB, dan phpMyAdmin yang sedang berjalan.
 
 ### B. Tampilan WordPress
 
-![WordPress Browser](bukti-running/wordpress-browser.png)
+![Tampilan WordPress](bukti-running/Tampilan%20Wordpress.png)
 
 Menampilkan halaman WordPress yang berhasil dibuka melalui browser.
 
 ### C. Artikel Pengujian
 
-![Artikel Uji](bukti-running/artikel-uji.png)
+![Artikel Pengujian](bukti-running/Artikel%20Pengujian.png)
 
 Menampilkan artikel pengujian yang berhasil dibuat di WordPress.
 
 ### D. Pengujian Persistensi Data
 
-![Data Persistensi](bukti-running/data-persistensi.png)
+![Pengujian Persistensi Data](bukti-running/Pengujian%20Persistensi%20Data.png)
 
 Menunjukkan bahwa artikel tetap ada setelah container dihentikan dan dijalankan kembali.
 
